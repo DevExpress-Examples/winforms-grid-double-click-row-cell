@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DoubleClickCell/Form1.cs) (VB: [Form1.vb](./VB/DoubleClickCell/Form1.vb))
+* [Program.cs](./CS/DoubleClickCell/Program.cs) (VB: [Program.vb](./VB/DoubleClickCell/Program.vb))
+<!-- default file list end -->
 # How to handle a double-click on a grid row or cell
 
 
