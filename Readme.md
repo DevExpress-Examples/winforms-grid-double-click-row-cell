@@ -18,7 +18,7 @@ The [Grid Control](https://docs.devexpress.com/WindowsForms/3455/controls-and-li
 - [How to: Handle a Double-Click on a Grid Row or Cell](https://docs.devexpress.com/WindowsForms/403568/controls-and-libraries/data-grid/examples/navigation-and-selection/how-to-handle-a-double-click-on-a-grid-row-or-cell)
 - [BaseView.DoubleClick](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.BaseView.DoubleClick)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-double-click-row-cell&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-double-click-row-cell&~~~was_helpful=no)
 
